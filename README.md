@@ -29,3 +29,4 @@ This project builds a website which displays a list of movies. When a movie is c
   - Title, storyline, poster, and YouTube trailer URL. The Movie class can be found in media.py if you want to learn more.
 
 ### License
+[MIT](ud036_StarterCode/LICENSE)
