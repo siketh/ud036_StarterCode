@@ -7,7 +7,7 @@ interstellar = media.Movie(
     "Interstellar",
     "Astronauts travel through a wormhole in order to find a new habitable"
     " planet.",
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_UY1200_CR69,0,630,1200_AL_.jpg",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_UY1200_CR69,0,630,1200_AL_.jpg",  # noqa
     "https://www.youtube.com/watch?v=0vxOhd4qlnA")
 
 two_thousand_one = media.Movie(
@@ -21,34 +21,34 @@ tropic_thunder = media.Movie(
     "Tropic Thunder",
     "A group of narccicistic actors try to make the most realistic Vietnam"
     " war movie ever.",
-    "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Tropic_thunder_ver3.jpg/220px-Tropic_thunder_ver3.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Tropic_thunder_ver3.jpg/220px-Tropic_thunder_ver3.jpg",  # noqa
     "https://www.youtube.com/watch?v=T-6YhRZowgc")
 
 sherlock_holmes = media.Movie(
     "Sherlock Holmes",
     "The best private detective of the 1800s teams up with a guy named"
     " Watson to solve some crimes.",
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_UY1200_CR86,0,630,1200_AL_.jpg",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_UY1200_CR86,0,630,1200_AL_.jpg",  # noqa
     "https://www.youtube.com/watch?v=ZSUiBVfvqhc")
 
 a_clockwork_orange = media.Movie(
     "A Clockwork Orange",
     "Some youths of the future do hood rat things.",
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY1200_CR90,0,630,1200_AL_.jpg",  # noqa
     "https://www.youtube.com/watch?v=xHFPi_3kc1U")
 
 john_wick = media.Movie(
     "John Wick",
     "Somebody kills John Wick's dog. Everyone they know, love, or associate"
     " with dies.",
-    "http://is2.mzstatic.com/image/thumb/Video2/v4/3b/ea/a4/3beaa4a6-611c-cbc2-6718-fd2578abf363/source/1200x630bb.jpg",
+    "http://is2.mzstatic.com/image/thumb/Video2/v4/3b/ea/a4/3beaa4a6-611c-cbc2-6718-fd2578abf363/source/1200x630bb.jpg",  # noqa
     "https://www.youtube.com/watch?v=RllJtOw0USI")
 
 totoro = media.Movie(
     "My Neighbor Totoro",
     "A Japanese family moves to the countryside. Their children discover a"
     " mysterious, adorable forest spirit named Totoro",
-    "https://upload.wikimedia.org/wikipedia/en/0/02/My_Neighbor_Totoro_-_Tonari_no_Totoro_%28Movie_Poster%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/0/02/My_Neighbor_Totoro_-_Tonari_no_Totoro_%28Movie_Poster%29.jpg",  # noqa
     "https://www.youtube.com/watch?v=TuLX50_5UAI")
 
 it = media.Movie(
@@ -60,7 +60,7 @@ it = media.Movie(
 blade_runner = media.Movie(
     "Blade Runner",
     "Do androids dream of electric sheep?",
-    "https://vignette.wikia.nocookie.net/bladerunner/images/e/e0/Blade-runner-directors-cut-poster--large-msg-119325148375.jpg/revision/latest/scale-to-width-down/350?cb=20110425200646",
+    "https://vignette.wikia.nocookie.net/bladerunner/images/e/e0/Blade-runner-directors-cut-poster--large-msg-119325148375.jpg/revision/latest/scale-to-width-down/350?cb=20110425200646",  # noqa
     "https://www.youtube.com/watch?v=eogpIG53Cis")
 
 
